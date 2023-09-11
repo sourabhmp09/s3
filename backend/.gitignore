@@ -1,0 +1,12 @@
+
+# dependencies
+/node_modules
+/Frontend/node_modules
+
+
+
+/backend/config/config.env
+# production
+
+
+
